@@ -1,0 +1,137 @@
+{
+  "data":
+  [
+   {
+    "id": 515325305,
+    "name": "aula-git-ebac",
+    "owner": {
+      "login": "RubaTeixeira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32233584?v=4"
+     },
+    "stargazers_count": 0,
+    "language": "Nenhuma",
+    "html_url": "https://github.com/RubaTeixeira/aula-git-ebac",
+    "description": "Entrega de exercício do módulo10"
+    },
+   {
+    "id": 486396297,
+    "name": "AulaGit",
+    "owner": {
+      "login": "RubaTeixeira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32233584?v=4"
+     },
+    "stargazers_count": 0,
+    "language": "HTML",
+    "html_url": "https://github.com/RubaTeixeira/AulaGit",
+    "description": "Aula GIT DIO-Santander"
+    },
+   {
+    "id": 505651644,
+    "name": "DIO-matches-simulator",
+    "owner": {
+      "login": "RubaTeixeira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32233584?v=4"
+     },
+    "stargazers_count": 0,
+    "language": "Java",
+    "html_url": "https://github.com/RubaTeixeira/DIO-matches-simulator",
+    "description": "Atividades do curso - Santander Bootcamp Mobile Developer"
+    },
+   {
+    "id": 521700903,
+    "name": "DIO-soccer-news",
+    "owner": {
+      "login": "RubaTeixeira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32233584?v=4"
+     },
+    "stargazers_count": 0,
+    "language": "Java",
+    "html_url": "https://github.com/RubaTeixeira/DIO-soccer-news",
+    "description": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java"
+    },
+   {
+    "id": 457172249,
+    "name": "exercicios-ebac",
+    "owner": {
+      "login": "RubaTeixeira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32233584?v=4"
+      },
+    "stargazers_count": 0,
+    "language": "Gherkin",
+    "html_url": "https://github.com/RubaTeixeira/exercicios-ebac",
+    "description": "Atividades do curso EBAC - Analista de Qualidade de Software"
+    },
+   {
+    "id": 519011202,
+    "name": "matches-simulator-api",
+    "owner": {
+      "login": "RubaTeixeira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32233584?v=4"
+      },
+    "stargazers_count": 0,
+    "language": "Nenhuma",
+    "html_url": "https://github.com/RubaTeixeira/matches-simulator-api",
+    "description": "Repositório que simula uma API REST para obtenção de partidas"
+    },
+   {
+    "id": 523518481,
+    "name": "my-business-card",
+    "owner": {
+      "login": "RubaTeixeira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32233584?v=4"
+      },
+    "stargazers_count": 0,
+    "language": "Kotlin",
+    "html_url": "https://github.com/RubaTeixeira/my-business-card",
+    "description": "Atividade bootcamp Santander - App Kotlin de cartao de visitas"
+    },
+   {
+    "id": 413645302,
+    "name": "RubaTeixeira",
+    "owner": {
+      "login": "RubaTeixeira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32233584?v=4"
+      },
+    "stargazers_count": 0,
+    "language": "Nenhuma",
+    "html_url": "https://github.com/RubaTeixeira/RubaTeixeira",
+    "description": "Config files for my GitHub profile."
+    },
+   {
+    "id": 521747017,
+    "name": "soccer-news-api",
+    "owner": {
+      "login": "RubaTeixeira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32233584?v=4"
+      },
+    "stargazers_count": 0,
+    "language": "Nenhuma",
+    "html_url": "https://github.com/RubaTeixeira/soccer-news-api",
+    "description": "API (rovida via GitHub Pages) do app \"Soccer News\""
+    },
+   {
+    "id": 522320650,
+    "name": "soccer-news-app",
+    "owner": {
+      "login": "RubaTeixeira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32233584?v=4"
+      },
+    "stargazers_count": 0,
+    "language": "Nenhuma",
+    "html_url": "https://github.com/RubaTeixeira/soccer-news-app",
+    "description": "App Nativo Android de Notícias Sobre Futebol Feminino (Mês da Mulher)"
+    },
+   {
+    "id": 515332904,
+    "name": "teste-ebac-ui",
+    "owner": {
+      "login": "RubaTeixeira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32233584?v=4"
+      },
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "html_url": "https://github.com/RubaTeixeira/teste-ebac-ui",
+    "description": "Sem descrição"
+    }
+ ]
+}
